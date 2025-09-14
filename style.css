@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.card-text{
+    color: black;
+}
+
+.section-starter{
+    font-family:sans-serif; 
+    color: rgb(13, 110, 253);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.resources{
+    height: 15px;
+    padding-top: 3px;
+}
+
+.resource-links{
+    color: rgb(13, 110, 253) !important;
+
+}
